@@ -1,0 +1,12 @@
+# Core text / cleaning utilities
+ftfy
+regex
+tqdm
+
+# Numerical + ML stack
+numpy
+scipy
+scikit-learn
+
+# Optional language detection (if used in your pipeline)
+langid
